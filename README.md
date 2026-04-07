@@ -41,8 +41,3 @@ Busco minha primeira oportunidade como desenvolvedor para evoluir minhas habilid
 
 ---
 
-## 📫 Contato
-
-- 📧 Email: seuemail@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/seu-perfil  
-- 💻 GitHub: https://github.com/seu-usuario  
